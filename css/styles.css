@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.span {
+    background-color: #1CD1B0;
+    padding: 10px 25px;
+    width: 100%;
+}
+
+h1 {
+    background-color: #00669F;
+    font-weight: bold;
+    padding: 25px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+main {
+    position: relative;
+    left: 32px;
+    margin: 100px 16px;
+}
+
+.caja-1 { 
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+
+.caja-2 {
+    position: relative;
+    left: 348px;
+    top: -341px;
+}
+
+
+.caja-3 {
+    position: relative;
+    left: 699px;
+    top: -682px;
+}
+
+.corazon {
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+
+.logo {
+    position: absolute;
+    border-radius: 70px;
+    left: 90px;
+    top: 128px;
+}
+
+h2 {
+    position: relative;
+    top: 58px;
+    left: 90px;
+}
+
+span {
+    position: relative;
+    top: 70px;
+    left: 20px;
+}
+
+.boton {
+    background-color: #00669F;
+    color: #F3F3F3;
+    position: absolute;
+    left: 90px;
+    top: 450px;
+    padding: 10px 20px;
+    font-weight: lighter;
+
+}
+
+section {
+    height: 550px;
+}
+
+footer {
+    background-color: #00669F;
+    color: #F3F3F3;
+    font-weight: lighter;
+    padding: 10px 20px;
+}
